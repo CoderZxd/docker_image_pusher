@@ -6,3 +6,4 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 rust:1.81.0
 mcr.microsoft.com/dotnet/sdk:7.0
+mcr.microsoft.com/dotnet/aspnet:7.0
